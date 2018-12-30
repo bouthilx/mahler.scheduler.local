@@ -51,9 +51,9 @@ Requirements
 Installation
 ------------
 
-You can install "pytest-local" via `pip`_ from `PyPI`_::
+You can install "mahler.scheduler.local" via `pip`_ from `PyPI`_::
 
-    $ pip install pytest-local
+    $ pip install git+https://github.com/bouthilx/mahler.scheduler.local.git
 
 
 Usage
